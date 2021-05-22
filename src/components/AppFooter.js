@@ -19,14 +19,14 @@ export default function AppFooter() {
           <Typography variant="body2" color="textSecondary" align="center">
             {"Copyright © "}
             <MuiLink color="inherit" href="/">
-              SushiSwap Analytics
+              Polycake Analytics
             </MuiLink>{" "}
             {new Date().getFullYear()}
             {"."}
           </Typography>
         </Box>
         {/* <Typography variant="body2" color="textPrimary" align="center">
-          Made with ❤️, ☕ and 🍣
+          Made with ❤
         </Typography> */}
       </Box>
     </div>
