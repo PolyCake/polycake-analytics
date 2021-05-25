@@ -7,7 +7,7 @@ Polycake Analytics is a progressive web application for the Polycake AMM Protoco
 This one-liner assumes you have git, nvm & yarn installed.
 
 ```sh
-git https://github.com/PolyCake/polycake-analytics.git && cd sushiswap-analytics && nvm use && yarn && yarn dev
+git https://github.com/PolyCake/polycake-analytics.git && cd polycake-analytics && nvm use && yarn && yarn dev
 ```
 
 
